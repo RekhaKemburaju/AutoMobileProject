@@ -51,7 +51,7 @@ namespace AutoMobileProject
             Vehicle oldVehicleObj_3 = new Vehicle("truck", 600000, 6000);
             oldVehicleObj_3.updateMileage(14000);
             oldVehicleObj_3.updateMileage(15000);
-            oldVehicleObj_3.updateMileage(10000);
+            oldVehicleObj_3.updateMileage(20000);
             oldVehicleObj_3.updateMileage(35000);
             oldVehicleObj_3.updateMileage(60000);
             oldVehicleObj_3.updateMileage(60000);
